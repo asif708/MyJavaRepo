@@ -2,8 +2,10 @@
 
 class MyClass{
 
-	main(){
+	public static void main(String arg[]){
+
 		sysout("Hello Git..!!!");
+
 	}
 
 }
