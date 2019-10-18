@@ -4,7 +4,7 @@ class MyClass{
 
 	public static void main(String arg[]){
 
-		sysout("Hello Git..!!!");
+		System.out.println("Hello Git..!!!");
 
 	}
 
